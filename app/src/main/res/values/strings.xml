@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">basicTextEditor</string>
+    <string-array name="fonts">
+        <item>Aclonica-Regular</item>
+        <item>AguafinaScript-Regular</item>
+        <item>AlexBrush-Regular</item>
+        <item>Amarante-Regular</item>
+        <item>Cagliostro-Regular</item>
+        <item>jetbrains</item>
+        <item>oregano</item>
+    </string-array>
+</resources>

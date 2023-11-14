@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/edit_text_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Background color, set to white -->
+    <stroke
+        android:width="2dp"
+    android:color="@color/black" /> <!-- Border color, set to black -->
+    <corners android:radius="8dp" /> <!-- Corner radius, adjust as needed -->
+</shape>
